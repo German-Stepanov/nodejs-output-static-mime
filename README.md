@@ -16,7 +16,7 @@ var content_type = mime['.js'];
 ```
 ## Возвращает строку
 ```
-'application/javascript, text/javascript'
+application/javascript, text/javascript
 ```
 
 ## Тестирование
