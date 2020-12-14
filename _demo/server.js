@@ -27,7 +27,7 @@ String.prototype.myFormat = function () {
 };
 
 //Модуль Mime
-var mime = require('output-static-mime');
+var mime = require('../index.js');
 
 var http = require('http');
 //Формируем задачу
