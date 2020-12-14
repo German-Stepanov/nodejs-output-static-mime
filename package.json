@@ -1,0 +1,23 @@
+{
+  "name": "output-static-mime",
+  "version": "1.0.0",
+  "description": "Mime for output-static module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/German-Stepanov/nodejs-output-static-mime.git"
+  },
+  "keywords": [
+    "mime",
+    "static"
+  ],
+  "author": "German Stepanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/German-Stepanov/nodejs-output-static-mime/issues"
+  },
+  "homepage": "https://github.com/German-Stepanov/nodejs-output-static-mime#readme"
+}
