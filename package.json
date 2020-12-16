@@ -1,10 +1,11 @@
 {
   "name": "output-static-mime",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mime for output-static module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "demo": "cd _demo && node server"
   },
   "repository": {
     "type": "git",
