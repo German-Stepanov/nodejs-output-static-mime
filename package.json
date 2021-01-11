@@ -1,6 +1,6 @@
 {
   "name": "output-static-mime",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Mime for output-static module",
   "main": "index.js",
   "scripts": {
